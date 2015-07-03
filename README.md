@@ -10,4 +10,5 @@
 - [React Europe for Android](https://play.google.com/store/apps/details?id=com.thinkmill.react_europe&hl=en)
 
 ### Useful Links
-- [React Europe App API]
+- [React Europe API](https://github.com/thinkmill/reacteu-api)
+- [React Europe repository](https://github.com/thinkmill/reacteu-api)
