@@ -11,4 +11,4 @@
 
 ### Useful Links
 - [React Europe API](https://github.com/thinkmill/reacteu-api)
-- [React Europe repository](https://github.com/thinkmill/reacteu-api)
+- [React Europe repository](https://github.com/thinkmill/reacteu-app)
