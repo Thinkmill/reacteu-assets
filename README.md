@@ -1,6 +1,6 @@
 ![React Europe Conference App](http://thinkmill.com.au/images/react-europe/react-europe-app-logo.png)
 
-# React Europe Conference App Resources
+# React Europe App Resources
 
 ### What's here
 - React Europe Conference App Sketch files
